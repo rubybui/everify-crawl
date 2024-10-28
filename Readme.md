@@ -1,6 +1,4 @@
-Here's an updated `README.md` with a section on potential updates:
 
-```markdown
 # E-Verify Crawler
 
 This project is a Python-based web crawler designed to scrape company data from the [E-Verify website](https://www.e-verify.gov/). The script uses `requests` to fetch data, `BeautifulSoup` for HTML parsing, and `pandas` to save the scraped data to a CSV file.
@@ -100,10 +98,9 @@ Feel free to submit issues or pull requests to improve this project. Contributio
 This script is designed for educational and research purposes only. Please ensure that you comply with the terms of service of the website you are scraping.
 ```
 
-### Explanation of the Updates Section
+### Future Updates 
 
 - **Mid-Scrape Restarting**: Describes the planned feature to start scraping from a specific page or state, which is especially useful if the process is interrupted.
 - **State-Based Scraping**: Allows users to scrape data selectively by state, useful for targeted data collection.
 - **Advanced Error Handling**: Mentions plans to improve the robustness of error handling in case of structural changes on the website.
 
-These updates will give users a clear understanding of potential future improvements and address known limitations. Adjust the wording as needed to fit your specific project scope.
