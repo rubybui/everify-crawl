@@ -98,9 +98,10 @@ Feel free to submit issues or pull requests to improve this project. Contributio
 This script is designed for educational and research purposes only. Please ensure that you comply with the terms of service of the website you are scraping.
 ```
 
-### Future Updates 
+### Some Exlane about Updates 
 
 - **Mid-Scrape Restarting**: Describes the planned feature to start scraping from a specific page or state, which is especially useful if the process is interrupted.
 - **State-Based Scraping**: Allows users to scrape data selectively by state, useful for targeted data collection.
 - **Advanced Error Handling**: Mentions plans to improve the robustness of error handling in case of structural changes on the website.
 
+The goal is to provide an up-to-date dataset of verified employers to aid in daily job searches.
